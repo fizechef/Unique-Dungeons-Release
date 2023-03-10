@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "uniquedungeons:items/sonic_bow_pulling_1"
+    }
+}

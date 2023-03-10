@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "up": "uniquedungeons:block/dark_antique_stone_pressure_plate",
+		"down": "uniquedungeons:block/dark_antique_stone",
+        "north": "uniquedungeons:block/dark_antique_stone",
+		"east": "uniquedungeons:block/dark_antique_stone",
+		"west": "uniquedungeons:block/dark_antique_stone",
+		"south": "uniquedungeons:block/dark_antique_stone",
+		"particle": "uniquedungeons:block/dark_antique_stone"
+    }
+}

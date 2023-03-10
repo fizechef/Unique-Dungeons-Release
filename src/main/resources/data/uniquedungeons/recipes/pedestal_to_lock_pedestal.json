@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "RUR",
+        " g "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:comparator"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "U": {
+            "item": "uniquedungeons:pedestal"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "uniquedungeons:lock_pedestal",
+        "count": 1
+    }
+}

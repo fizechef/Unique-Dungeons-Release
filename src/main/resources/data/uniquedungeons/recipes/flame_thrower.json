@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#M#",
+        "UTU",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "uniquedungeons:ceramic_shard"
+        },
+        "M": {
+            "item": "minecraft:magma_block"
+        },
+        "U": {
+            "item": "uniquedungeons:antique_pebble"
+        },
+        "T": {
+            "item": "uniquedungeons:disguised_dispenser"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "uniquedungeons:flame_thrower",
+        "count": 1
+    }
+}

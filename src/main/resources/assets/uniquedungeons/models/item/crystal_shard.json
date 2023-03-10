@@ -1,0 +1,49 @@
+{
+	"textures": {
+		"0": "uniquedungeons:items/crystal_shard"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"north": {"uv": [0, 3, 2, 11], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 6.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0.25, 6.25, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-3, 0, 0],
+			"translation": [-3.5, 6.5, 4.5],
+			"scale": [0.67, 0.67, 0.67]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-6, 0, 0],
+			"translation": [-3.25, 4.25, 0.5],
+			"scale": [0.67, 0.67, 0.67]
+		},
+		"ground": {
+			"translation": [0, 3.25, 0]
+		},
+		"gui": {
+            "rotation": [ 20, 45, 0 ],
+            "translation": [ 0, 3.5, 0 ],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        },
+		"fixed": {
+			"translation": [0, 4.5, 0]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "type": "uniquedungeons:desert_dungeon",
+  "biomes": [
+    "minecraft:savanna",
+    "minecraft:desert",
+    "minecraft:badlands"
+  ],
+  "step": "underground_structures",
+  "terrain_adaptation": "none",
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "start_height": {
+    "absolute": 0
+  },
+  "spawn_overrides": {}
+}

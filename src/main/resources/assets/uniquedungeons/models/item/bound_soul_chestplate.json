@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "uniquedungeons:items/bound_soul_chestplate"
+	}
+}

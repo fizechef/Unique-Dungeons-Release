@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "uniquedungeons:dark_antique_stone"
+        }
+    ],
+    "result": {
+        "item": "uniquedungeons:antique_pebble",
+        "count": 4
+    }
+}

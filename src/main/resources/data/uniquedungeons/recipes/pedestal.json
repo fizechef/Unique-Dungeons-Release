@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "UZU",
+        "UBU"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:red_carpet"
+        },
+        "U": {
+            "item": "uniquedungeons:ceramic_shard"
+        },
+        "Z": {
+            "item": "uniquedungeons:chiseled_dark_antique_stone"
+        },
+        "B": {
+            "item": "uniquedungeons:dark_antique_stone"
+        }
+    },
+    "result": {
+        "item": "uniquedungeons:pedestal",
+        "count": 1
+    }
+}

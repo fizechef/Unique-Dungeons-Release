@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "uniquedungeons:block/empty_urn" }
+    }
+}

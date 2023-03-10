@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "uniquedungeons:block/crystal" },
+        "facing=east": { "model": "uniquedungeons:block/crystal" , "y": 90},
+        "facing=south": { "model": "uniquedungeons:block/crystal" , "y": 180},
+        "facing=west": { "model": "uniquedungeons:block/crystal" , "y": 270}
+    }
+}

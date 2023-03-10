@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "uniquedungeons:block/dark_antique_stone",
+        "north": "uniquedungeons:block/dark_antique_stone",
+		"east": "uniquedungeons:block/dark_antique_stone",
+		"west": "uniquedungeons:block/dark_antique_stone",
+		"south": "uniquedungeons:block/flame_thrower",
+		"particle": "uniquedungeons:block/dark_antique_stone"
+    }
+}

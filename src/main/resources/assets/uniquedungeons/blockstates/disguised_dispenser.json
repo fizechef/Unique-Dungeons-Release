@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=south": { "model": "uniquedungeons:block/disguised_dispenser" },
+        "facing=west": { "model": "uniquedungeons:block/disguised_dispenser" , "y": 90},
+        "facing=north": { "model": "uniquedungeons:block/disguised_dispenser" , "y": 180},
+        "facing=east": { "model": "uniquedungeons:block/disguised_dispenser" , "y": 270},
+        "facing=up": { "model": "uniquedungeons:block/disguised_dispenser" , "x": 90},
+        "facing=down": { "model": "uniquedungeons:block/disguised_dispenser" , "x": 270}
+	}
+}

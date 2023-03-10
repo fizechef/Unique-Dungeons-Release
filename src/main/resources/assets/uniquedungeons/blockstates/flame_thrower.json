@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=south": { "model": "uniquedungeons:block/flame_thrower" },
+        "facing=west": { "model": "uniquedungeons:block/flame_thrower" , "y": 90},
+        "facing=north": { "model": "uniquedungeons:block/flame_thrower" , "y": 180},
+        "facing=east": { "model": "uniquedungeons:block/flame_thrower" , "y": 270},
+        "facing=up": { "model": "uniquedungeons:block/flame_thrower" , "x": 90},
+        "facing=down": { "model": "uniquedungeons:block/flame_thrower" , "x": 270}
+	}
+}

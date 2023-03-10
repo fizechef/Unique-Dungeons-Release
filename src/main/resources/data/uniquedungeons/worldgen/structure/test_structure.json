@@ -1,0 +1,11 @@
+{
+  "type": "uniquedungeons:test_structure",
+  "biomes": "#minecraft:is_forest",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "start_height": {
+    "absolute": 0
+  },
+  "spawn_overrides": {}
+}

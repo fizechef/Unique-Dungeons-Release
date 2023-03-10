@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "uniquedungeons:clay_paste"
+    },
+    "result": "uniquedungeons:ceramic_shard",
+    "experience": 0.1,
+    "cookingtime": 200
+}

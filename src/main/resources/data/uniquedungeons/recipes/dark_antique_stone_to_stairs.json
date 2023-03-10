@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "uniquedungeons:dark_antique_stone"
+        }
+    },
+    "result": {
+        "item": "uniquedungeons:dark_antique_stone_stairs",
+        "count": 4
+    }
+}

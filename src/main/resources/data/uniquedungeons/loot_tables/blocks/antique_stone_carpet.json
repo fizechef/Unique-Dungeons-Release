@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:block",
+	"pools":[
+		{
+			"rolls": 1.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "uniquedungeons:antique_stone_carpet"
+				}				
+			]
+		}
+	]
+}

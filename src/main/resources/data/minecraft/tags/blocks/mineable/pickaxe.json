@@ -1,0 +1,20 @@
+{
+  "values": [
+    "uniquedungeons:dark_antique_stone",
+	"uniquedungeons:chiseled_dark_antique_stone",
+	"uniquedungeons:dark_antique_stone_slab",
+	"uniquedungeons:dark_antique_stone_stairs",
+	"uniquedungeons:pedestal",
+	"uniquedungeons:lock_pedestal",
+    "uniquedungeons:iron_spikes",
+	"uniquedungeons:cracked_dark_antique_stone",
+    "uniquedungeons:dark_antique_stone_pressure_plate",
+	"uniquedungeons:antique_pebble",
+	"uniquedungeons:antique_pebble_pressure_plate",
+	"uniquedungeons:flame_thrower",
+	"uniquedungeons:disguised_dispenser",
+	"uniquedungeons:dried_quick_sand",
+	"uniquedungeons:antique_stone_carpet",
+	"uniquedungeons:dark_antique_stone_pillar"
+  ]
+}

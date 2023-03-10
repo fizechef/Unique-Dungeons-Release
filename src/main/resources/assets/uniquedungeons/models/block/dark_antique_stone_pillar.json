@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "uniquedungeons:block/dark_antique_stone_pillar",
+		"particle": "uniquedungeons:block/dark_antique_stone_pillar"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [1, 0, 7, 16], "texture": "#0"},
+				"east": {"uv": [1, 0, 7, 16], "texture": "#0"},
+				"south": {"uv": [1, 0, 7, 16], "texture": "#0"},
+				"west": {"uv": [1, 0, 7, 16], "texture": "#0"},
+				"up": {"uv": [9, 2, 15, 14], "texture": "#0"},
+				"down": {"uv": [9, 2, 15, 14], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-0.25, 2.5, 0.75],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_righthand": {
+			"translation": [2.25, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [1, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [36, 41, -16],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

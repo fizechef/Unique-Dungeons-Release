@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"powered=false": { "model": "uniquedungeons:block/dark_antique_stone_pressure_plate" },
+		"powered=true": { "model": "uniquedungeons:block/dark_antique_stone_pressure_plate_pressed" }
+	}
+}

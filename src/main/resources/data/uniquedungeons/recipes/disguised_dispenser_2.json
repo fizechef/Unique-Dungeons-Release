@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#U#",
+        "UDU",
+        "#U#"
+    ],
+    "key": {
+        "#": {
+            "item": "uniquedungeons:ceramic_shard"
+        },
+        "U": {
+            "item": "uniquedungeons:antique_pebble"
+        },
+        "D": {
+            "item": "minecraft:dispenser"
+        }
+    },
+    "result": {
+        "item": "uniquedungeons:disguised_dispenser",
+        "count": 1
+    }
+}

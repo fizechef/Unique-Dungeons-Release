@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:red_carpet"
+        },
+        {
+            "item": "uniquedungeons:dark_antique_stone"
+        }
+    ],
+    "result": {
+        "item": "uniquedungeons:antique_stone_carpet",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "uniquedungeons:ceramic_shard"
+        }
+    },
+    "result": {
+        "item": "uniquedungeons:empty_urn",
+        "count": 1
+    }
+}

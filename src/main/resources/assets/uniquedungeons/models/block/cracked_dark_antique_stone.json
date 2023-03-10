@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "uniquedungeons:block/cracked_dark_antique_stone"
+	}
+}

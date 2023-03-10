@@ -1,0 +1,14 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "up": "uniquedungeons:block/torn_carpet",
+        "north": "uniquedungeons:block/dark_antique_stone_carpet_side",
+		"east": "uniquedungeons:block/dark_antique_stone_carpet_side",
+		"west": "uniquedungeons:block/dark_antique_stone_carpet_side",
+		"south": "uniquedungeons:block/dark_antique_stone_carpet_side",
+		"down": "uniquedungeons:block/dark_antique_stone",
+
+		
+		"particle": "uniquedungeons:block/dark_antique_stone"
+    }
+}

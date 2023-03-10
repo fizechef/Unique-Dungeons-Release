@@ -1,0 +1,47 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "uniquedungeons:blood_sword"
+        },
+        /*
+        //to bugged and disabled for 0.69 release
+        {
+          "type": "minecraft:item",
+          "name": "uniquedungeons:rage_blade"
+        },*/
+        {
+          "type": "minecraft:item",
+          "name": "uniquedungeons:reflecting_shield"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "uniquedungeons:amethyst_shield"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "uniquedungeons:bound_soul_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "uniquedungeons:bound_soul_leggins"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "uniquedungeons:bound_soul_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "uniquedungeons:bound_soul_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "uniquedungeons:sonic_bow"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        "#U ",
+        "  #"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "U": {
+            "item": "uniquedungeons:rope"
+        }
+    },
+    "result": {
+        "item": "minecraft:lead",
+        "count": 2
+    }
+}

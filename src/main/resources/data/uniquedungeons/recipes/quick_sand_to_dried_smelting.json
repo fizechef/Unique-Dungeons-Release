@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "uniquedungeons:quick_sand"
+    },
+    "result": "uniquedungeons:dried_quick_sand",
+    "experience": 0.1,
+    "cookingtime": 200
+}

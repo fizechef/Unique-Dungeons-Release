@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "uniquedungeons:clay_paste"
+        }
+    },
+    "result": {
+        "item": "uniquedungeons:pottery_block",
+        "count": 1
+    }
+}

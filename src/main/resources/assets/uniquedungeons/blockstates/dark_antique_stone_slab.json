@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "uniquedungeons:block/dark_antique_stone_slab_bottom" },
+        "type=top": { "model": "uniquedungeons:block/dark_antique_stone_slab_top" },
+        "type=double": { "model": "uniquedungeons:block/dark_antique_stone" }
+    }
+}

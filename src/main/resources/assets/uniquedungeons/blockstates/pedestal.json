@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "uniquedungeons:block/pedestal" },
+        "facing=west": { "model": "uniquedungeons:block/pedestal" , "y": 90},
+        "facing=north": { "model": "uniquedungeons:block/pedestal" , "y": 180},
+        "facing=east": { "model": "uniquedungeons:block/pedestal" , "y": 270}
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "uniquedungeons:dark_antique_stone_pillar"
+    },
+    "result": "uniquedungeons:chiseled_dark_antique_stone",
+    "count": 1
+}

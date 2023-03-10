@@ -1,0 +1,99 @@
+{
+    //Groups
+	"itemGroup.Unique Dungeons Blocks": "Unique Dungeons Blocks",
+	"itemGroup.Unique Dungeons Items": "Unique Dungeons Items",
+
+    //Item Names
+	"item.uniquedungeons.test_item": "Test Item",
+	"item.uniquedungeons.ceramic_shard": "Ceramic Shard",
+	"item.uniquedungeons.crystal_shard": "Crystal Shard",
+	"item.uniquedungeons.note": "Note",
+	"item.uniquedungeons.ancient_note": "Ancient Note",
+	"item.uniquedungeons.climbing_hook_item": "Hooked Arrow",
+	"item.uniquedungeons.clay_paste": "Pottery Paste",
+	"item.uniquedungeons.rope": "Sturdy Rope",
+	"item.uniquedungeons.ancient_root_item": "Root",
+	"item.uniquedungeons.crystal_arrow_item": "Crystal Arrow",
+
+	
+	"item.minecraft.splash_potion.effect.glowing_potion": "Splash Potion of Glowing",
+	"item.minecraft.lingering_potion.effect.glowing_potion": "Lingering Potion of Glowing",
+	"item.minecraft.potion.effect.glowing_potion": "Potion of Glowing",
+
+
+	//Artifact Items
+	"item.uniquedungeons.blood_sword": "Blood Sword",
+	"item.uniquedungeons.bound_soul_chestplate": "Bound Soul Chestplate",
+	"item.uniquedungeons.bound_soul_leggins": "Bound Soul Leggins",
+	"item.uniquedungeons.bound_soul_helmet": "Bound Soul Helmet",
+	"item.uniquedungeons.bound_soul_boots": "Bound Soul Boots",
+	"item.uniquedungeons.reflecting_shield": "Reflecting Shield",
+	"item.uniquedungeons.rage_blade": "Rage Blade (WIP, not in loottable)",
+	"item.uniquedungeons.amethyst_shield": "Amethyst Shield",
+	"item.uniquedungeons.sonic_bow": "Sonic Bow",
+
+
+	//Item Info/Lore Texts
+	"lore.item.uniquedungeons.unknown": "???",
+	"lore.item.uniquedungeons.shift_for_more": "Hold SHIFT for more info.",
+	"lore.item.uniquedungeons.repair": "Repair with: ",
+
+	"lore.item.uniquedungeons.note": "Right click to learn about an ancient artifact.",
+	
+	"lore.item.uniquedungeons.reflecting_shield.lore": "Reflects incoming arrows and knocks back any attacker.",
+	
+	"lore.item.uniquedungeons.amethyst_shield.damage_stacks": "Blocked Attacks: ",
+	"lore.item.uniquedungeons.amethyst_shield.lore": "Grows amethyst crystals when blocking and fires them at any attacker.",
+	
+	"lore.item.uniquedungeons.blood_sword.blood": "Blood Collected: ",
+	"lore.item.uniquedungeons.blood_sword.damage_modifier": "Base Damage Multiplier: ",
+	"lore.item.uniquedungeons.blood_sword.lore": "Collects blood of unsuspecting friends to increase its strength.",
+	
+	"lore.item.uniquedungeons.rage_blade.lore": "With Rage comes Strength",
+	"lore.item.uniquedungeons.rage_blade.stacks": "Stacks: ",
+	"lore.item.uniquedungeons.rage_blade.damage_modifier": "Damage Modifier: ",
+	"lore.item.uniquedungeons.rage_blade.speed_modifier": "Attackspeed Modifier: ",
+	
+	"lore.item.uniquedungeons.sonic_bow.lore": "Consumes Echo Shards to replicate the Wardens sonic attack. Deals percentage max health damage.",
+	
+	"lore.item.uniquedungeons.bound_soul.boots": "Can be bound to entities to transfer Fall Damage",
+	"lore.item.uniquedungeons.bound_soul.leggins": "Can be bound to entities to transfer Lava and Fire Damage",
+	"lore.item.uniquedungeons.bound_soul.chestplate": "Can be bound to entities to transfer Magic Damage",
+	"lore.item.uniquedungeons.bound_soul.helmet": "Can be bound to entities to transfer Drown Damage",
+	"lore.item.uniquedungeons.bound_soul": "Bound Entity: ",
+	
+	"lore.item.uniquedungeons.climbing_hook_item.lore": "Arrow with an attached Hook, that can be used to climb rough terrain",
+	"lore.item.uniquedungeons.crystal_shard.lore": "Arrow with a sharp tip, that can penetrate Armor",
+
+	//Blocks
+	"block.uniquedungeons.test_block": "Test Block",
+	"block.uniquedungeons.dark_antique_stone": "Dark Antique Stone",
+	"block.uniquedungeons.cracked_dark_antique_stone": "Cracked Dark Antique Stone",
+	"block.uniquedungeons.chiseled_dark_antique_stone": "Chiseled Dark Antique Stone",
+	"block.uniquedungeons.dark_antique_gravel": "Dark Antique Gravel",
+	"block.uniquedungeons.dark_antique_stone_pressure_plate": "Dark Antique Pressure Plate",
+	"block.uniquedungeons.flame_thrower": "Flame Thrower",
+	"block.uniquedungeons.disguised_dispenser": "Disguised Dispenser",
+	"block.uniquedungeons.pedestal": "Pedestal",
+	"block.uniquedungeons.lock_pedestal": "Lock Pedestal",
+	"block.uniquedungeons.quick_sand": "Quick Sand",
+	"block.uniquedungeons.dried_quick_sand": "Dried Quick Sand",
+	"block.uniquedungeons.iron_spikes": "Iron Spikes",
+	"block.uniquedungeons.climbing_hook": "Climbing Hook",
+	"block.uniquedungeons.climbing_rope": "Climbing Rope",
+	"block.uniquedungeons.pottery_block": "Pottery Block",
+	"block.uniquedungeons.antique_stone_carpet": "Carpeted Dark Antique Stone",
+	"block.uniquedungeons.dark_antique_stone_pillar": "Dark Antique Stone Pillar",
+	"block.uniquedungeons.ancient_roots": "Ancient Roots",
+	"block.uniquedungeons.rooted_ground": "Rooted Ground",
+	"block.uniquedungeons.dark_antique_stone_slab": "Dark Antique Stone Slab",
+	"block.uniquedungeons.dark_antique_stone_stairs": "Dark Antique Stone Stairs",
+
+	"block.uniquedungeons.antique_pebble": "Antique Pebble",
+	"block.uniquedungeons.antique_pebble_pressure_plate": "Antique Pebble Pressure Plate",
+	"block.uniquedungeons.urn": "Urn",
+	"block.uniquedungeons.empty_urn": "Empty Urn",
+	"block.uniquedungeons.crystal": "Crystal",
+	"block.uniquedungeons.red_scarab": "Red Scarab"
+	
+}

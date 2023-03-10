@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "uniquedungeons:test_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 507461062,
+    "spacing": 225,
+    "separation": 110,
+    "spread_type": "triangular"
+  }
+}

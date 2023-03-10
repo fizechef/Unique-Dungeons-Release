@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "/",
+        "F"
+    ],
+    "key": {
+        "#": {
+            "item": "uniquedungeons:crystal_shard"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "item": "uniquedungeons:crystal_arrow_item",
+        "count": 4
+    }
+}
